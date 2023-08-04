@@ -4,6 +4,8 @@
 
 ![X](https://github.com/sourceduty/Tweet_Prescheduler/assets/123030236/1322d220-a95b-4714-ad76-56e69c1f9481)
 
+![Burn After Reading Meme](https://github.com/sourceduty/Tweet_Prescheduler/assets/123030236/6c3804d8-52e9-4c81-b81b-22a071ef5c69)
+
 Links:
 
 ```
