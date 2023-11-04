@@ -46,8 +46,6 @@ If you want to automate the process of scheduling tweets, you would need to use 
 
 #
 
-![Burn After Reading Meme](https://github.com/sourceduty/Tweet_Prescheduler/assets/123030236/6c3804d8-52e9-4c81-b81b-22a071ef5c69)
-
 ### REFERENCES
 
 [Reddit Post](https://www.reddit.com/r/Automate/comments/jv40eg/twitter_tweetdeck_automated_bot/)
