@@ -45,14 +45,15 @@ Remember, you'll need to have Python installed on your system to run this script
 If you want to automate the process of scheduling tweets, you would need to use the Twitter API directly, but this would not involve TweetDeck. Automating Twitter interactions through the API requires careful adherence to Twitter's Automation Rules to avoid any potential violations that could lead to account suspension.
 
 #
-
-### REFERENCES
+### Related Links
 
 [Reddit Post](https://www.reddit.com/r/Automate/comments/jv40eg/twitter_tweetdeck_automated_bot/)
-
+<br>
 [DeviantArt Post](https://www.deviantart.com/s0urceduty/art/TweetDeck-Bot-814675209)
-
+<br>
 [Tweet](https://www.deviantart.com/s0urceduty/art/Tweetdeck-Bot-2-0-912864784)
+<br>
+[Socal Prep](https://github.com/sourceduty/Social_Prep)
 
 #
 
