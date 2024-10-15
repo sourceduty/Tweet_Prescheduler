@@ -61,6 +61,8 @@ If you want to automate the process of scheduling tweets, you would need to use 
 [Socal Prep](https://github.com/sourceduty/Social_Prep)
 <br>
 [Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
+<br>
+[Tweet Prescheduler](https://github.com/sourceduty/Tweet_Prescheduler)
 
 #
 
