@@ -1,4 +1,4 @@
-### Tweet_Prescheduler
+![Twitter X](https://github.com/user-attachments/assets/55e93d57-cd03-44f6-bb17-d7da74d84311)
 
 > Organize links and hashtags prescheduled into TweetDeck for Twitter.
 
@@ -7,8 +7,6 @@
 The TweetDeck Bot showcased in the image is a tool designed to automate the process of scheduling tweets by scraping a website for URLs and inputting them directly into TweetDeck. The bot features a straightforward user interface that allows users to toggle the bot on or off, reset the settings, and specify the timing for tweets, including the date and additional hashtags or information. The bot also provides an option to change the URL link index and includes a secondary window that displays the current operations and log details. This makes it a practical solution for users looking to streamline their social media management by automating tweet scheduling with minimal manual input. Created by Alex Aldridge in 2019, the tool emphasizes ease of use and functionality, with no rights reserved on its usage.
 
 #
-
-### CONCEPT
 
 ```
 import csv
@@ -58,6 +56,8 @@ If you want to automate the process of scheduling tweets, you would need to use 
 [Tweet](https://www.deviantart.com/s0urceduty/art/Tweetdeck-Bot-2-0-912864784)
 <br>
 [Socal Prep](https://github.com/sourceduty/Social_Prep)
+<br>
+[Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
 
 #
 
