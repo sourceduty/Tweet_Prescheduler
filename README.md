@@ -1,4 +1,4 @@
-![Twitter X](https://github.com/user-attachments/assets/55e93d57-cd03-44f6-bb17-d7da74d84311)
+![Tweet](https://github.com/user-attachments/assets/19a50b62-3f62-4e68-a515-f87f82836549)
 
 > Organize links and hashtags prescheduled into TweetDeck for Twitter.
 
@@ -45,6 +45,9 @@ This script will take a list of tweets with their scheduled dates, text, and lin
 Remember, you'll need to have Python installed on your system to run this script, and you can execute it in any standard Python environment.
 
 If you want to automate the process of scheduling tweets, you would need to use the Twitter API directly, but this would not involve TweetDeck. Automating Twitter interactions through the API requires careful adherence to Twitter's Automation Rules to avoid any potential violations that could lead to account suspension.
+
+#
+![Tweets](https://github.com/user-attachments/assets/6a0b43f2-31c2-4126-84d5-b69ca3bfbdc3)
 
 #
 ### Related Links
